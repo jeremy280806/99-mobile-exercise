@@ -1,2 +1,2 @@
-Using a native android
+Using a native android (Kotlin)
 Team 99 - Mobile Exercise (Android/IOS)
